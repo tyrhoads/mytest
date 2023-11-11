@@ -1,6 +1,4 @@
-///Replace with your name
-///Replace with the date
-///Replace with the purpose of the program
+
 
 #include <fstream>
 #include <string>
